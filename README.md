@@ -30,7 +30,7 @@ Computer Science student at **BINUS University** with a background in **Database
 - 🎓 Computer Science Student — BINUS University
 - 💼 Business System Analyst Intern
 - 🗄️ Background in Database Technology
-- 🐧 Linux enthusiast, currently deep in cybersecurity & pentesting
+- 🐧 Linux enthusiast, currently learning cybersecurity & pentesting fundamentals
 - 🤖 Building with LLMs, workflow automation, and cloud-native tools
 
 ---
@@ -102,19 +102,23 @@ Computer Science student at **BINUS University** with a background in **Database
 ## 📌 Featured Projects
 
 #### 🌐 Website & CMS Platform
-Full-stack platform with a dynamic CMS, responsive UI, and database-driven content management.
+A self-built CMS so non-technical admins can update site content (pages, media, posts) without touching code, backed by a Postgres schema and deployed via Docker.
 `Next.js` `Tailwind CSS` `PostgreSQL` `Docker` `Node.js`
 
 #### 🛒 TopUpin — Game Top-Up Platform
-Web platform for managing games, products, users, and transactions for a game top-up service.
+A Laravel web app for a game top-up business: admins manage games and products, users browse and purchase, and every order is tracked through a MySQL-backed transaction flow.
 `Laravel` `PHP` `MySQL` `Bootstrap`
 
 #### 🤖 AI Automation Platform
-Automation workflow connecting Telegram, LLM APIs, and generative-AI image tools end to end.
+An n8n pipeline that takes prompts from a Telegram bot, routes them through Hugging Face / ComfyUI for image generation, and delivers the result back to the user automatically.
 `n8n` `Python` `Hugging Face` `ComfyUI` `Docker`
 
+#### ☁️ AI-Assisted Cloud Decision Layer `in progress`
+Research project exploring how AI can support cloud infrastructure decisions — e.g. resource sizing, cost, or workload placement — instead of relying on manual, rule-based choices.
+`Python` `Cloud Computing` `AI/LLM`
+
 #### 🔐 Pentest & Security Automation `in progress`
-Automating recon, service enumeration, and reporting for authorized security assessments.
+A personal project to script and automate parts of a pentest workflow — recon, port/service enumeration, and basic vulnerability checks — in a controlled lab environment.
 `Kali Linux` `Nmap` `Metasploit` `Hydra` `Python`
 
 ---
@@ -122,10 +126,11 @@ Automating recon, service enumeration, and reporting for authorized security ass
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaquille18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Shaquille18 GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquille18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Shaquille18 Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shaquille18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Shaquille18 Trophies" />
+<img src="https://streak-stats.demolab.com/?user=Shaquille18&theme=tokyonight&hide_border=true" alt="Shaquille18 Contribution Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaquille18&theme=tokyo-night&hide_border=true" alt="Shaquille18 Contribution Graph" />
+
 </div>
 
 ---
