@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/](https://github.com/Shaquille18)[Shaquille18](https://github.com/Shaquille18)">
-    <img src="[https://komarev.com/ghpvc/?username=](https://komarev.com/ghpvc/?username=Shaquille18&label=Profile%20Views&color=0e75b6&style=flat)[Shaquille18](https://komarev.com/ghpvc/?username=Shaquille18&label=Profile%20Views&color=0e75b6&style=flat)[&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Shaquille18&label=Profile%20Views&color=0e75b6&style=flat)" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shaquille18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
